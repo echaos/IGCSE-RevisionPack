@@ -1,8 +1,8 @@
-#Chemistry Revision Pack
+# Chapter 2 Experiemental techniques
 
-#Separation
+## Separation
 
-##List of Separation Techniques
+### List of Separation Techniques
 
 
 1. Magnetic Attraction: **Separate magntic material**
@@ -22,12 +22,12 @@
 
 
 
-##Chromatography
+### Chromatography
 1. **Step 1** Apply a small but concentrated spot of the solution on a piece of chromatography paper
 2. **Step 2** Suspend the chromatography paper in a beaker or boiling tube of solvent with the spot above the level of the solvent
 3. **Step 3** Separation takes place because some components of the liquid mixture travel at a **faster** pace than other components on the paper or any other aborbent material
 
-##Purity and b.p and m.p
+## Purity and b.p and m.p
 The greater the amount of an impurity, the bigger the **differences** from the true melting point and boiling point.
 
 
