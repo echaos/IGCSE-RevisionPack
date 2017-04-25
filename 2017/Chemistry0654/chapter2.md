@@ -11,16 +11,20 @@
  *e.g. sand from water*
 
  ![Filtration](res/filtration.jpg)
+
 3. Evaporation **Separate a disolved solid that does not decompose on heat**
  *e.g CuSO4*
 
  ![Evaporation](res/evaporation.png)
+
 4. Simple Distillation **Separate a pure liquid from a mixture of two liquid**
 
  ![Simple Distillation](res/simple_distillation.png)
+
 5. Fractional Distillation **Separate liquid with different boiling points**
 
  ![Fractional Distillation](res/fractional_distillation.gif)
+
 6. Chromatography **Separate different color components**
 
  ![Chromatography](res/chromatography.gif)
